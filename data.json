@@ -1,6 +1,8 @@
 [
     {
         "event": "Finals Week!",
-        "date": "12/9-12/13"
+        "startDate": "2024-12-09",
+        "endDate": "2024-12-13"
     }
 ]
+
